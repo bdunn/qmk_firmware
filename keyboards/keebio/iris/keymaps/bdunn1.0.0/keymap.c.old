@@ -11,6 +11,9 @@ enum custom_keycodes {
   LOWER,
   RAISE,
   ADJUST,
+  WOW,
+  JAVA,
+
 };
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
